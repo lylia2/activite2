@@ -1,0 +1,2 @@
+Ce howto est le premier pas pour ecriri un script en bash 
+

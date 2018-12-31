@@ -1,4 +1,3 @@
 #!/bin/bash
+echo "Bonne journee"
 
-VAR1 = A
-export VAR1
